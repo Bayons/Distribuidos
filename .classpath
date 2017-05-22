@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <classpath>
-	<classpathentry kind="src" path="src"/>
-	<classpathentry kind="src" path="Laboratorio1"/>
-	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
-	<classpathentry kind="output" path="bin"/>
+	<classpathentry kind="src" path="src" />
+	<classpathentry kind="src" path="Taller1" />
+	<classpathentry kind="src" path="LabSeminario1" />
+	<classpathentry kind="src" path="Taller3" />
+	<classpathentry kind="src" path="Laboratorio4" />
+	<classpathentry kind="src" path="Taller4" />
+	<classpathentry kind="src" path="Taller2" />
+	<classpathentry kind="con"
+		path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8" />
+	<classpathentry kind="output" path="bin" />
 </classpath>
